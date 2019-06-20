@@ -1,0 +1,11 @@
+1:下载git scm
+  https://git-scm.com/downloads
+
+2:安装
+  默认下一步一路点到底
+
+3:使用
+  打开git bash
+  输入  ssh-keygen -t rsa -C'git邮箱' (网络上很多文章都是ssh -keygen，中间有空格，会导致Bad escape character 'ygen'.所以ssh-keygen中间是没有空格的)
+
+

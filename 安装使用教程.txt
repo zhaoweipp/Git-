@@ -1,11 +1,20 @@
-1:ÏÂÔØgit scm
+1:ä¸‹è½½git scm
   https://git-scm.com/downloads
 
-2:°²×°
-  Ä¬ÈÏÏÂÒ»²½Ò»Â·µãµ½µ×
+2:å®‰è£…
+  é»˜è®¤ä¸‹ä¸€æ­¥ä¸€è·¯ç‚¹åˆ°åº•
 
-3:Ê¹ÓÃ
-  ´ò¿ªgit bash
-  ÊäÈë  ssh-keygen -t rsa -C'gitÓÊÏä' (ÍøÂçÉÏºÜ¶àÎÄÕÂ¶¼ÊÇssh -keygen£¬ÖĞ¼äÓĞ¿Õ¸ñ£¬»áµ¼ÖÂBad escape character 'ygen'.ËùÒÔssh-keygenÖĞ¼äÊÇÃ»ÓĞ¿Õ¸ñµÄ)
+3:ä½¿ç”¨
+  æ‰“å¼€git bash
+  è¾“å…¥  ssh-keygen -t rsa -C'gité‚®ç®±' (ç½‘ç»œä¸Šå¾ˆå¤šæ–‡ç« éƒ½æ˜¯ssh -keygenï¼Œä¸­é—´æœ‰ç©ºæ ¼ï¼Œä¼šå¯¼è‡´Bad escape character 'ygen'.æ‰€ä»¥ssh-keygenä¸­é—´æ˜¯æ²¡æœ‰ç©ºæ ¼çš„)
+
+4:å…‹éš†è¿œç¨‹é¡¹ç›®åˆ°æœ¬åœ°
+  git clone åœ°å€ D:/xxx/xxx  ç›´æ¥cloneä¸€ä¸ªè¿œç¨‹é¡¹ç›®åˆ°D:/xxx/xxx
+  
+5:ä¿®æ”¹æœ¬åœ°é¡¹ç›®
+
+6ï¼špushé¡¹ç›®åˆ°è¿œç¨‹ä»“åº“
+   åœ¨æ–‡ä»¶å¤¹å³é”®æ‰“å¼€git bash
+   git
 
 

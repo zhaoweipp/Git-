@@ -1,0 +1,7 @@
+import os
+
+SERIAL_PORT = os.getenv("SERIAL_PORT", "COM1")
+SERIAL_BAUDRATE = int(os.getenv("SERIAL_BAUDRATE", "115200"))
+SERIAL_TIMEOUT = float(os.getenv("SERIAL_TIMEOUT", "0.1"))
+SOCKETIO_PING_INTERVAL = int(os.getenv("SOCKETIO_PING_INTERVAL", "25"))
+SOCKETIO_PING_TIMEOUT = int(os.getenv("SOCKETIO_PING_TIMEOUT", "60"))

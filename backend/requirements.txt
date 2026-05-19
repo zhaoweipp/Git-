@@ -1,0 +1,5 @@
+Flask==3.0.3
+apiflask==2.3.3
+python-socketio==5.11.4
+pyserial==3.5
+uvicorn==0.30.6
